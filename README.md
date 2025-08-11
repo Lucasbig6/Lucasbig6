@@ -2,7 +2,7 @@
 
 Me chamo Lucas Pablo e sou Analista de Sistemas, com sólida experiência como Analista de Dados e Desenvolvedor de Software.
 
-💡 Minha jornada profissional é marcada pela união entre análise estratégica de dados e desenvolvimento de soluções eficientes, sempre com foco em gerar valor real para o negócio, sempre sendo solicito e atencioso e inovnado de forma criativa.
+💡 Minha jornada profissional é marcada pela união entre análise estratégica de dados e desenvolvimento de soluções eficientes, sempre com foco em gerar valor real para o negócio, sempre sendo solicito e atencioso e inovando de forma criativa.
 
 ### 🤖 Linguagens e Tecnologias
 
