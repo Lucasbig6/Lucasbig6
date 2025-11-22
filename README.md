@@ -1,117 +1,97 @@
-# Olá, Mundo !!👋 
+# 🧑‍💻 Lucas Pablo — Perfil Profissional
 
-Me chamo Lucas Pablo e sou Analista de Sistemas, com sólida experiência como Analista de Dados e Desenvolvedor de Software.
+Olá! Sou **Coordenador de Análise de Dados** na SESAPI e estudante de tecnologia. Trabalho construindo soluções para transformar dados em decisões — sempre com foco em simplicidade, performance e impacto real.
 
-💡 Minha jornada profissional é marcada pela união entre análise estratégica de dados e desenvolvimento de soluções eficientes, sempre com foco em gerar valor real para o negócio, sempre sendo solicito e atencioso e inovando de forma criativa.
+Atualmente desenvolvo projetos com **Python, Power BI, SQL, Superset, Metabase e Docker**, além de explorar formas de criar ferramentas mais amigáveis para freelancers e negócios.
 
-### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+## 🚀 Stack & Habilidades
 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+### 🔹 Linguagens & Ferramentas
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" 
-/>
+<div>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="60" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
+  <img src="https://skillicons.dev/icons?i=express" width="60" />
+  <img src="https://skillicons.dev/icons?i=docker" width="60" />
+  <img src="https://skillicons.dev/icons?i=linux" width="60" />
+</div>
 
-<img 
-    align="left" 
-    alt="Tableau Software" 
-    title="Tableau Software"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" 
-/>
-<br/>
-<br/>
+### 🔹 Data & BI
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+* SQL (PostgreSQL, MySQL, SQLite)
+* Power BI (DAX, Power Query, modelagem e visualização)
+* Apache Superset
+* Metabase
+* ETL, automações, web scraping
+
+### 🔹 Outros
+
+* Git e GitHub
+* Docker & Docker Compose
+* APIs REST (Node + Express)
+* Modelagem de dados
+* Deploy de dashboards e soluções analíticas
+
+---
+
+## 📊 Projetos em Destaque
+
+### 🔥 **1. Dashboard Geo de Monitoramento de Temperatura**
+
+**Tecnologias:** Python, SQL, Superset
+
+* Tratamento de dados geoespaciais
+* Ranking dinâmico dos estados mais quentes
+* Mapa com análise de risco
+* Top 5 por métricas de calor
+
+➡️ *Disponível em breve no repositório.*
+
+---
+
+### 🦠 **2. Integração SINAN + Base Macrorregional**
+
+**Tecnologias:** Python (pandas), SQL
+
+* Correção de chaves, merges avançados e limpeza de dados
+* Integração para análises epidemiológicas
+* Automação de pipeline diário
+
+---
+
+### 📈 **3. Power BI — Painéis Institucionais**
+
+**Tecnologias:** DAX, Power Query
+
+* Painéis com indicadores de saúde
+* Otimização de performance
+* Modelagem avançada
+
+➡️ *Subindo para o GitHub…*
+
+---
+
+## 🛠️ Em construção (roadmap pessoal)
+
+* Criar ambiente **open-source** de dashboards 100% personalizáveis
+* Plataforma simplificada para **freelancers e pequenos negócios**
+* Avançar em Node + Express para automações e APIs internas
+* Projetos públicos com dados abertos do Brasil
+
+---
+
+## 📬 Entre em contato
+
+📧 **Email:** *adicione aqui*
+🔗 **LinkedIn:** *adicione aqui*
+🐙 **GitHub:** [https://github.com/USERNAME](https://github.com/USERNAME)
+
+---
+
+## ⭐ Se curtir algum projeto, deixe uma estrela!
+
+Isso ajuda muito e me motiva a continuar publicando mais soluções.
