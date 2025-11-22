@@ -1,22 +1,31 @@
-# 🧑‍💻 Lucas Pablo — Perfil Profissional
+# 🧑‍💻 Olá, Mundo!!
 
-Olá! Sou **Coordenador de Análise de Dados** na SESAPI e estudante de tecnologia. Trabalho construindo soluções para transformar dados em decisões — sempre com foco em simplicidade, performance e impacto real.
+Sou Lucas Pablo, **Analista de Sistemas e Cientista de Dados** com experiência em setor público (SESAPI) e projetos freelancer. Transformo dados em insights valiosos por meio de automação, pipelines, storytelling e dashboards interativos, unindo gestão, controladoria e tecnologia da informação para entregar soluções estratégicas e eficientes.
 
-Atualmente desenvolvo projetos com **Python, Power BI, SQL, Superset, Metabase e Docker**, além de explorar formas de criar ferramentas mais amigáveis para freelancers e negócios.
+### 🔹 Estatisticas de Projetos
+---
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasbig6&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbig6&theme=vue-dark&hide_border=true" width="320" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbig6&theme=vue-dark&show_icons=true&hide_border=true" width="320"/>  
+</div>
 
 ---
 
-## 🚀 Stack & Habilidades
+
 
 ### 🔹 Linguagens & Ferramentas
 
 <div>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="60" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="60" />
-  <img src="https://skillicons.dev/icons?i=express" width="60" />
-  <img src="https://skillicons.dev/icons?i=docker" width="60" />
-  <img src="https://skillicons.dev/icons?i=linux" width="60" />
+  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000'" width="50" title="Python"/>
+  <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50"  title="Power BI"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" width="50" title="Metabase"/>
+  <img src="https://images.icon-icons.com/2407/PNG/512/docker_icon_146192.png" width="50" title="Docker"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_logo_icon_146389.png" width="50" title="PostgreSQL"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width="50" title="MySQL"/>
+  <img src="https://images.icon-icons.com/2415/PNG/512/react_original_logo_icon_146374.png" width="50" title="React">
+  <img src="https://images.icon-icons.com/2108/PNG/512/djangoproject_icon_130956.png" width="50" title="Django">
+  <img src="https://images.icon-icons.com/46/PNG/128/linux_penguin_animal_9362.png" width="50" title="Linux">
 </div>
 
 ### 🔹 Data & BI
@@ -36,3 +45,9 @@ Atualmente desenvolvo projetos com **Python, Power BI, SQL, Superset, Metabase e
 * Modelagem de dados
 * Deploy de dashboards e soluções analíticas
 
+### 🔹 Demais Habilidades
+
+* Boa comunicação
+* Proatividade
+* Curiosidade
+* Habilidades de Storyteling
